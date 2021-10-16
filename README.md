@@ -1,1 +1,1 @@
-# financial-appraisal-algorithm
+# financial-modelling
